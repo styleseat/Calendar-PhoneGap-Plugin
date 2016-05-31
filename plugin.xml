@@ -73,6 +73,6 @@
                  target-dir="src/nl/xservices/plugins/accessor"/>
     <source-file src="src/android/nl/xservices/plugins/accessor/LegacyCalendarAccessor.java"
                  target-dir="src/nl/xservices/plugins/accessor"/>
-    <framework src="com.android.support:support-v4:+" />
+    <framework src="com.android.support:support-v4:23.4.0" />
   </platform>
 </plugin>
